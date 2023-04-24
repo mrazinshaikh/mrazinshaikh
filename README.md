@@ -59,7 +59,7 @@
 <!-- LinkedIn -->
 <a target="_blank"href="https://www.linkedin.com/in/mrazinshaikh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; 
 <!-- Stakoverflow -->
-<!-- <a target="_blank"href="https://stackoverflow.com/users/14355858/summer"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp; 
+<!-- <a target="_blank"href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>&nbsp;&nbsp; 
 </div> -->
 <!-- Connection End -->
 
