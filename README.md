@@ -83,8 +83,8 @@
 
 ## Checkout some of my projects 👇
 
-### [PHP Group Imports - A VsCode Extension to Group PHP use statements under same namespace](https://github.com/mrazinshaikh/php-group-imports-extension)
-### [Zoomifyjs - Is a lightweight (only 1kb gzipped) npm package for image zoom plugin with no dependencies and no styling.](https://mrazinshaikh.github.io/zoomifyjs)
-### [Mysql ORM integration in nuxt js.](https://nuxt-mysql.vercel.app/auth/login)
+- ### [PHP Group Imports - A VsCode Extension to Group PHP use statements under same namespace](https://github.com/mrazinshaikh/php-group-imports-extension)
+- ### [Zoomifyjs - Is a lightweight (only 1kb gzipped) npm package for image zoom plugin with no dependencies and no styling.](https://mrazinshaikh.github.io/zoomifyjs)
+- ### [Mysql ORM integration in nuxt js.](https://nuxt-mysql.vercel.app/auth/login)
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
