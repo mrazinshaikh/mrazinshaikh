@@ -87,4 +87,9 @@
 - ### [Zoomifyjs - Is a lightweight (only 1kb gzipped) npm package for image zoom plugin with no dependencies and no styling.](https://mrazinshaikh.github.io/zoomifyjs)
 - ### [Mysql ORM integration in nuxt js.](https://nuxt-mysql.vercel.app/auth/login)
 
+
+## My Resume
+- [Razin-Full-Stack-Web-Developer.pdf](https://github.com/mrazinshaikh/mrazinshaikh/blob/4cbcfed81901c161b5174d979b911f53654df049/Razin-Full-Stack-Web-Developer.pdf)
+
+
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
