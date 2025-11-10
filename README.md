@@ -64,7 +64,9 @@
 <!-- Connection End -->
 
 <!-- Snake Gif -->
+<!-- 
 ![snake gif](https://github.com/mrazinshaikh/mrazinshaikh/blob/output/github-contribution-grid-snake.gif)
+-->
 
 <div>
     <p>
@@ -86,6 +88,8 @@
 - ### [PHP Group Imports - A VsCode Extension to Group PHP use statements under same namespace](https://github.com/mrazinshaikh/php-group-imports-extension)
 - ### [Zoomifyjs - Is a lightweight (only 1kb gzipped) npm package for image zoom plugin with no dependencies and no styling.](https://mrazinshaikh.github.io/zoomifyjs)
 - ### [Mysql ORM integration in nuxt js.](https://nuxt-mysql.vercel.app/auth/login)
+- ### [Contribution to laravel framework](https://github.com/laravel/framework/pulls?q=is%3Apr++author%3Amrazinshaikh+)
+- ### [Contribution to official laravel package](https://github.com/laravel/roster/pulls?q=+is%3Apr+author%3Amrazinshaikh+)
 
 
 ## My Resume
